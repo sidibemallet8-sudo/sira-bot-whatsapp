@@ -20,7 +20,9 @@ module.exports = {
 ✓ Support des groupes
 ✓ Système de commandes extensible
 
-👨‍💻 *Développeur:* sidibemallet8-sudo
+👨‍💻 *Créateur:* Mallet Sidibe
+🏢 *Entreprise:* Data-core
+📞 *Contact:* +223 83466782
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     `;

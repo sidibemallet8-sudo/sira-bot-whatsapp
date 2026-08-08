@@ -1,0 +1,28 @@
+{
+  "name": "sira-bot-whatsapp",
+  "version": "1.0.0",
+  "description": "Un bot WhatsApp utilisant Baileys avec support des commandes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "nodejs"
+  ],
+  "author": "sidibemallet8-sudo",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "pino": "^8.16.0",
+    "pino-pretty": "^10.2.0",
+    "qrcode": "^1.5.3",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

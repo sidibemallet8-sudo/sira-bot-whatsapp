@@ -30,6 +30,13 @@ module.exports = {
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+👨‍💻 *Créateur:* Mallet Sidibe
+🏢 *Entreprise:* Data-core
+📞 *Contact:* +223 83466782
+🌐 *GitHub:* @sidibemallet8-sudo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Pour plus d'infos: !help
     `;
 
